@@ -23,3 +23,5 @@
 [What Makes a Great Developer Experience?](https://leerob.io/blog/developer-experience-examples)
 
 [Hosting multiple React apps in one s3 bucket](https://karen-kua.medium.com/how-to-host-multiple-react-apps-in-the-same-aws-s3-bucket-cloudfront-c518c2b38408)
+
+[B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
